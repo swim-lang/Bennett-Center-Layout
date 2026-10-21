@@ -1,0 +1,6 @@
+_versions/
+.DS_Store
+# Unused by the site; kept locally for the archived drum version
+assets/img/porsches.jpg
+assets/img/muscle-car.jpg
+assets/svg/wordmark-nav.svg
